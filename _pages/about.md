@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-William is a PhD candidate in Department of [Economics](https://www.lse.ac.uk/economics) at LSE[LSE](https://www.lse.ac.uk/), and is affiliated with the [STICERD](https://sticerd.lse.ac.uk/) Public Economics group.  His research interests cover a variety of fields within applied microeconomics: labor economics, public economics, and the economics of digital platforms. 
+William is a PhD candidate in Department of [Economics](https://www.lse.ac.uk/economics) at [LSE](https://www.lse.ac.uk/), and is affiliated with the [STICERD](https://sticerd.lse.ac.uk/) Public Economics group.  His research interests cover a variety of fields within applied microeconomics: labor economics, public economics, and the economics of digital platforms. 
 
 He is currently working on three projects: the first examines the predictability of an individual’s middle-life income, using Dutch administrative data.  The second deals the mechanisms of health inequality, again using administrative data. The third studies focusses on superstar effects arising from digital platforms and the creator economy.
 
