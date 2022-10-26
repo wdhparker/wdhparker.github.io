@@ -37,8 +37,8 @@ Employment
 
 Research funding & awards
 ------
-* 2020 	W.E. Upjohn Institute Early Career Research Award 
-* 2021 	STICERD Research Grant
+* 2020 –	W.E. Upjohn Institute Early Career Research Award 
+* 2021 –	STICERD Research Grant
 
 Working papers:
 ------
