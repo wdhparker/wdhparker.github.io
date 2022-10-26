@@ -9,51 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
+Citizenship: Australian, Right to work in UK
+
+
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* Sept 2019 – present:  PhD Economics – London School of Economics
+  Awarded Department of Economics Scholarship
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept 2017 – Sept 2018:		MSc. Economics – University College London
+  Awarded Distinction
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2007 – 2012:		Bachelor of Commerce (w. honours) – University of Melbourne 
+  Major - Economics  (First class honours)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2007 – 2011:		Bachelor of Science – University of Melbourne
+  Major – Atmospheric science
+
+Employment
+------
+* Sept 2020  – present:		Teaching fellow – London School of Economics 
+	(EC201 - Microeconomic Principles I)
+* Feb 2013 – present:		Manager - Deloitte Access Economics, Australia 
+	(currently employed on a casual basis)
+* Sept 2018 – Sept 2019:	 	Research Assistant - London School of Economics - STICERD
+
+
+Research funding & awards
+------
+* 2020 	W.E. Upjohn Institute Early Career Research Award 
+* 2021 	STICERD Research Grant
+
+Working papers:
+------
+* Charting Social mobility over time – Presentation slides and working paper available on request
+
+* Superstars of the Creator Economy – Presentation slides available on request
+
+* Inequality in health access and outcomes in the Netherlands – coming soon
+(joint with Kaveh Danesh, Jonathan Kolstad, Johannes Spinnewijn)
+
+Referees:
+------
+* Prof. Johannes Spinnewijn 	Department of Economics, LSE
+* Prof. Dimitra Petropoulou 	Department of Economics, LSE
