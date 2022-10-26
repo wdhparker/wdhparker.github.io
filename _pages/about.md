@@ -15,6 +15,6 @@ He is currently working on three projects: the first examines the predictability
 William has previously worked for [Deloitte Access Economics](https://www2.deloitte.com/au/en/pages/finance/topics/deloitte-access-economics.html) in Australia, providing economics advisory services to state and federal governments.  He holds an MSc. in Economics from University College London, and a dual BSc. in Commerce/Science from University of Melbourne. 
 
 Teaching in 2022/23 
-======
+------
 EC2A1 Microeconomics II (Course Manager)
 
