@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "William Parker / William Parker - PhD Economist"
+title                    : "William Parker - PhD Economist"
 title_separator          : "-"
 name                     : &name "William Parker"
 description              : &description "William is a PhD candidate in Department of Economics, and is affiliated with the STICERD Public Economics group.  His research interests cover a variety of fields within applied microeconomics: labor economics, public economics, and the economics of digital platforms. "
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Will Parker"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Department of Economics, London School of Economics. STICERD affiliate. Previously worked for Deloitte Access Economics in Australia,"
+  bio              : "Econ PhD candidate, London School of Economics. STICERD affiliate. Previously worked for CEP, Deloitte Access Economics in Australia."
   location         : "London, UK"
   employer         :
-  pubmed           : ""
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #""
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
