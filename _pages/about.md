@@ -1,20 +1,95 @@
 ---
+layout: profile
 permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+title: "William Parker"
+excerpt: "Health economist working across LSE and UC Berkeley"
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Will is a PhD candidate in Department of [Economics](https://www.lse.ac.uk/economics) at [LSE](https://www.lse.ac.uk/), and is affiliated with the [STICERD](https://sticerd.lse.ac.uk/) Public Economics group.  His research interests cover a variety of fields within applied microeconomics: labor economics, public economics, and the economics of digital platforms. 
+<section class="profile-hero">
+  <div class="profile-hero__copy">
+    <p class="eyebrow">Health economics · Applied microeconomics</p>
+    <h1>William Parker</h1>
+    <p class="profile-hero__role">Postdoctoral Research Fellow at STICERD, LSE<br>Joint research programme with UC Berkeley</p>
+    <p class="profile-hero__lead">I study how health inequality develops across the life course, and how place, healthcare, and socioeconomic circumstances shape it.</p>
+    <div class="profile-actions">
+      <a class="profile-button profile-button--primary" href="/research/">View research</a>
+      <a class="profile-button" href="/cv/">Curriculum vitae</a>
+      <a class="profile-button profile-button--text" href="mailto:w.d.parker@lse.ac.uk">Email me <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+  <div class="profile-hero__portrait">
+    <img src="/images/Will_crop_portrait2.jpg" alt="Portrait of William Parker">
+  </div>
+</section>
 
-He is currently working on three projects: the first examines the predictability of an individual’s middle-life income, using Dutch administrative data.  The second deals the mechanisms of health inequality, again using administrative data. The third studies focusses on superstar effects arising from digital platforms and the creator economy.
+<section class="profile-intro profile-section">
+  <p class="section-kicker">About</p>
+  <div class="profile-intro__grid">
+    <h2>Economics grounded in population data and policy questions.</h2>
+    <div>
+      <p>I am a Postdoctoral Research Fellow at <a href="https://sticerd.lse.ac.uk/">STICERD</a> at the London School of Economics, working in a joint research programme with UC Berkeley. I completed my PhD in Economics at LSE in 2026.</p>
+      <p>My work uses linked administrative health and socioeconomic data to study health inequality, chronic disease, cancer outcomes, mental health, and the geography of health. I am particularly interested in translating careful measurement and applied microeconometrics into evidence that is useful for policy.</p>
+      <p>Before the PhD, I worked at <a href="https://www.deloitte.com/au/en/services/economics/about.html">Deloitte Access Economics</a> in Australia, delivering economic analysis for government, business, and not-for-profit clients.</p>
+    </div>
+  </div>
+</section>
 
-Will has previously worked for [Deloitte Access Economics](https://www2.deloitte.com/au/en/pages/finance/topics/deloitte-access-economics.html) in Australia, providing economics advisory services to state and federal governments.  He holds an MSc. in Economics from University College London, and a dual BSc. in Commerce/Science from University of Melbourne. 
+<section class="profile-section" id="selected-research">
+  <div class="section-heading">
+    <div>
+      <p class="section-kicker">Selected research</p>
+      <h2>Health, inequality, and place</h2>
+    </div>
+    <a class="section-link" href="/research/">All research <span aria-hidden="true">→</span></a>
+  </div>
 
-Teaching in 2022/23 
-------
-EC2A1 Microeconomics II (Course Manager)
+  <div class="research-grid">
+    <article class="research-card research-card--featured">
+      <div class="research-card__meta"><span class="status status--published">Published</span><span>AEA Papers and Proceedings · 2026</span></div>
+      <h3><a href="https://doi.org/10.1257/pandp.20261074">Explaining the Atomistic versus Ecological Fallacies in SES–Health Gradients</a></h3>
+      <p class="research-card__authors">with <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
+      <p>How does spatial aggregation change what income–health gradients measure? Dutch administrative data reveal distinct individual and neighbourhood channels—and unequal exposure to local conditions.</p>
+      <div class="research-card__links"><a href="https://doi.org/10.1257/pandp.20261074">Article</a><a href="https://personal.lse.ac.uk/spinnewi/P%26P_draft.pdf">Open draft</a></div>
+    </article>
 
+    <article class="research-card">
+      <div class="research-card__meta"><span class="status">Working paper</span><span>NBER 32577</span></div>
+      <h3><a href="https://www.nber.org/papers/w32577">The Chronic Disease Index: Analyzing Health Inequalities Over the Lifecycle</a></h3>
+      <p class="research-card__authors">with <a href="https://kavehdanesh.com/">Kaveh Danesh</a>, <a href="https://haas.berkeley.edu/faculty/jonathan-kolstad/">Jonathan Kolstad</a>, and <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
+      <p>A mortality-weighted measure of chronic disease shows that health inequality emerges much earlier in life than mortality statistics alone suggest.</p>
+      <div class="research-card__links"><a href="https://www.nber.org/papers/w32577">Paper</a><a href="https://cepr.org/voxeu/columns/closing-health-gap-how-chronic-illness-drives-health-inequality-early">VoxEU</a></div>
+    </article>
+
+    <article class="research-card">
+      <div class="research-card__meta"><span class="status">Working paper</span><span>Sole-authored</span></div>
+      <h3>Zooming in on Health: Using High-Resolution Spatial Data to Understand the Geography of Health Inequality</h3>
+      <p>Links population-wide Dutch records to fine-grained measures of pollution, food environments, green space, walkability, and healthcare access.</p>
+    </article>
+  </div>
+</section>
+
+<section class="profile-section profile-collaboration">
+  <p class="section-kicker">Current collaborations</p>
+  <h2>Research is collaborative.</h2>
+  <div class="collaboration-list">
+    <div>
+      <h3>Sources of Socioeconomic Inequality in Cancer Mortality</h3>
+      <p>with <a href="https://kavehdanesh.com/">Kaveh Danesh</a>, <a href="https://haas.berkeley.edu/faculty/jonathan-kolstad/">Jonathan Kolstad</a>, <a href="https://www.iknl.nl/medewerkers">Mieke Aarts</a>, and <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
+    </div>
+    <div>
+      <h3>The Social Determinants of Mental Health</h3>
+      <p>with <a href="https://canishknaik.github.io/">Canishk Naik</a> and <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
+    </div>
+  </div>
+</section>
+
+<section class="profile-section profile-contact">
+  <p class="section-kicker">Contact</p>
+  <h2>Interested in the research?</h2>
+  <p>I am based in London and work with collaborators at LSE, UC Berkeley, and across health and policy research.</p>
+  <a href="mailto:w.d.parker@lse.ac.uk">w.d.parker@lse.ac.uk <span aria-hidden="true">↗</span></a>
+</section>
