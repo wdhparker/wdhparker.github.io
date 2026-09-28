@@ -14,7 +14,6 @@ redirect_from:
     <p class="eyebrow">Health economics · Applied microeconomics</p>
     <h1>William Parker</h1>
     <p class="profile-hero__role">Postdoctoral Research Fellow at STICERD, LSE<br>Joint research programme with UC Berkeley</p>
-    <p class="profile-hero__lead">I study how health inequality develops across the life course, and how place, healthcare, and socioeconomic circumstances shape it.</p>
     <div class="profile-actions">
       <a class="profile-button profile-button--primary" href="/research/">View research</a>
       <a class="profile-button" href="/cv/">Curriculum vitae</a>
@@ -31,22 +30,16 @@ redirect_from:
 
 <section class="profile-intro profile-section">
   <p class="section-kicker">About</p>
-  <div class="profile-intro__grid">
-    <h2>Economics grounded in population data and policy questions.</h2>
-    <div>
-      <p>I am a Postdoctoral Research Fellow at <a href="https://sticerd.lse.ac.uk/">STICERD</a> at the London School of Economics, working in a joint research programme with UC Berkeley. I completed my PhD in Economics at LSE in 2026.</p>
-      <p>My work uses linked administrative health and socioeconomic data to study health inequality, chronic disease, cancer outcomes, mental health, and the geography of health. I am particularly interested in translating careful measurement and applied microeconometrics into evidence that is useful for policy.</p>
-      <p>Before the PhD, I worked at <a href="https://www.deloitte.com/au/en/services/economics/about.html">Deloitte Access Economics</a> in Australia, delivering economic analysis for government, business, and not-for-profit clients.</p>
-    </div>
+  <div class="profile-intro__body">
+    <p>I am a Postdoctoral Research Fellow at <a href="https://sticerd.lse.ac.uk/">STICERD</a> at the London School of Economics, working in a joint research programme with UC Berkeley. I completed my PhD in Economics at LSE in 2026.</p>
+    <p>My work uses linked administrative health and socioeconomic data to study health inequality, chronic disease, cancer outcomes, mental health, and the geography of health. I am particularly interested in translating careful measurement and applied microeconometrics into evidence that is useful for policy.</p>
+    <p>Before the PhD, I worked at <a href="https://www.deloitte.com/au/en/services/economics/about.html">Deloitte Access Economics</a> in Australia, delivering economic analysis for government, business, and not-for-profit clients.</p>
   </div>
 </section>
 
 <section class="profile-section" id="selected-research">
   <div class="section-heading">
-    <div>
-      <p class="section-kicker">Selected research</p>
-      <h2>Health, inequality, and place</h2>
-    </div>
+    <p class="section-kicker">Selected research</p>
     <a class="section-link" href="/research/">All research <span aria-hidden="true">→</span></a>
   </div>
 
@@ -73,27 +66,25 @@ redirect_from:
       <h3>Zooming in on Health: Using High-Resolution Spatial Data to Understand the Geography of Health Inequality</h3>
       <p>Links population-wide Dutch records to fine-grained measures of pollution, food environments, green space, walkability, and healthcare access.</p>
     </article>
-  </div>
-</section>
 
-<section class="profile-section profile-collaboration">
-  <p class="section-kicker">Current collaborations</p>
-  <h2>Research is collaborative.</h2>
-  <div class="collaboration-list">
-    <div>
+    <article class="research-card">
+      <div class="research-card__meta"><span class="status">In progress</span></div>
       <h3>Sources of Socioeconomic Inequality in Cancer Mortality</h3>
-      <p>with <a href="https://kavehdanesh.com/">Kaveh Danesh</a>, <a href="https://haas.berkeley.edu/faculty/jonathan-kolstad/">Jonathan Kolstad</a>, <a href="https://www.iknl.nl/medewerkers">Mieke Aarts</a>, and <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
-    </div>
-    <div>
+      <p class="research-card__authors">with <a href="https://kavehdanesh.com/">Kaveh Danesh</a>, <a href="https://www.iknl.nl/medewerkers">Mieke Aarts</a>, <a href="https://haas.berkeley.edu/faculty/jonathan-kolstad/">Jonathan Kolstad</a>, and <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
+      <p>A multidisciplinary study linking Dutch cancer-registry data with treatment, income, and mortality records to examine socioeconomic differences in cancer incidence, stage at diagnosis, treatment, and survival.</p>
+    </article>
+
+    <article class="research-card">
+      <div class="research-card__meta"><span class="status">In progress</span></div>
       <h3>The Social Determinants of Mental Health</h3>
-      <p>with <a href="https://canishknaik.github.io/">Canishk Naik</a> and <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
-    </div>
+      <p class="research-card__authors">with <a href="https://canishknaik.github.io/">Canishk Naik</a> and <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
+      <p>Using population-wide Dutch administrative data, this project measures mental-health inequality and studies when income gaps emerge and how mental-health shocks affect earnings and employment.</p>
+    </article>
   </div>
 </section>
 
 <section class="profile-section profile-contact">
   <p class="section-kicker">Contact</p>
-  <h2>Interested in the research?</h2>
   <p>I am based in London and work with collaborators at LSE, UC Berkeley, and across health and policy research.</p>
   <a href="mailto:w.d.parker@lse.ac.uk">w.d.parker@lse.ac.uk <span aria-hidden="true">↗</span></a>
 </section>

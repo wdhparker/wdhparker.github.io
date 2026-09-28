@@ -9,8 +9,6 @@ redirect_from:
 
 <header class="page-intro page-intro--compact">
   <p class="eyebrow">Curriculum vitae</p>
-  <h1>William Parker</h1>
-  <p>Health economics · Inequality · Applied microeconometrics · Administrative data · Spatial analysis</p>
   <div class="profile-actions"><a class="profile-button profile-button--primary" href="mailto:w.d.parker@lse.ac.uk">w.d.parker@lse.ac.uk</a><a class="profile-button" href="https://www.linkedin.com/in/william-parker-64a74438/">LinkedIn</a></div>
 </header>
 
