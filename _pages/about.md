@@ -22,7 +22,10 @@ redirect_from:
     </div>
   </div>
   <div class="profile-hero__portrait">
-    <img src="/images/Will_crop_portrait2.jpg" alt="Portrait of William Parker">
+    <picture>
+      <source srcset="/images/Will_crop_portrait2.webp" type="image/webp">
+      <img src="/images/Will_crop_portrait2.jpg" alt="Portrait of William Parker" width="1704" height="2326">
+    </picture>
   </div>
 </section>
 
@@ -49,7 +52,7 @@ redirect_from:
 
   <div class="research-grid">
     <article class="research-card research-card--featured">
-      <div class="research-card__meta"><span class="status status--published">Published</span><span>AEA Papers and Proceedings · 2026</span></div>
+      <div class="research-card__meta"><span class="status status--published">Proceedings</span><span>AEA Papers and Proceedings · 2026</span></div>
       <h3><a href="https://doi.org/10.1257/pandp.20261074">Explaining the Atomistic versus Ecological Fallacies in SES–Health Gradients</a></h3>
       <p class="research-card__authors">with <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
       <p>How does spatial aggregation change what income–health gradients measure? Dutch administrative data reveal distinct individual and neighbourhood channels—and unequal exposure to local conditions.</p>
@@ -57,11 +60,12 @@ redirect_from:
     </article>
 
     <article class="research-card">
-      <div class="research-card__meta"><span class="status">Working paper</span><span>NBER 32577</span></div>
-      <h3><a href="https://www.nber.org/papers/w32577">The Chronic Disease Index: Analyzing Health Inequalities Over the Lifecycle</a></h3>
+      <div class="research-card__meta"><span class="status">Working paper</span><span>September 2026</span></div>
+      <h3><a href="/files/lifecycle-formation-health-inequality.pdf">The Lifecycle Formation of Health Inequality</a></h3>
       <p class="research-card__authors">with <a href="https://kavehdanesh.com/">Kaveh Danesh</a>, <a href="https://haas.berkeley.edu/faculty/jonathan-kolstad/">Jonathan Kolstad</a>, and <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
-      <p>A mortality-weighted measure of chronic disease shows that health inequality emerges much earlier in life than mortality statistics alone suggest.</p>
-      <div class="research-card__links"><a href="https://www.nber.org/papers/w32577">Paper</a><a href="https://cepr.org/voxeu/columns/closing-health-gap-how-chronic-illness-drives-health-inequality-early">VoxEU</a></div>
+      <p>A mortality-weighted measure of chronic disease shows that half of the old-age difference in disease burden across the income distribution is already present by age 40, decades before the corresponding mortality differences emerge.</p>
+      <p class="paper-entry__note">Previously circulated as <em>The Chronic Disease Index: Analyzing Health Inequalities Over the Lifecycle</em>.</p>
+      <div class="research-card__links"><a href="/files/lifecycle-formation-health-inequality.pdf">Latest draft</a><a href="https://www.nber.org/papers/w32577">NBER</a><a href="https://cepr.org/publications/dp19160">CEPR</a><a href="https://cepr.org/voxeu/columns/closing-health-gap-how-chronic-illness-drives-health-inequality-early">VoxEU</a></div>
     </article>
 
     <article class="research-card">

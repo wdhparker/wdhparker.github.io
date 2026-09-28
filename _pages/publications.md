@@ -16,11 +16,11 @@ redirect_from:
 <section class="research-section">
   <div class="research-section__heading">
     <p class="section-kicker">Published</p>
-    <h2>Peer-reviewed research</h2>
+    <h2>Publications</h2>
   </div>
 
   <article class="paper-entry paper-entry--published">
-    <div class="paper-entry__aside"><span class="status status--published">Published</span><span>2026</span></div>
+    <div class="paper-entry__aside"><span class="status status--published">Proceedings</span><span>2026</span></div>
     <div class="paper-entry__body">
       <h3><a href="https://doi.org/10.1257/pandp.20261074">Explaining the Atomistic versus Ecological Fallacies in SES–Health Gradients</a></h3>
       <p class="paper-entry__authors">with <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
@@ -41,16 +41,17 @@ redirect_from:
   </div>
 
   <article class="paper-entry">
-    <div class="paper-entry__aside"><span class="status">Working paper</span><span>2024</span></div>
+    <div class="paper-entry__aside"><span class="status">Working paper</span><span>2026</span></div>
     <div class="paper-entry__body">
-      <h3><a href="https://www.nber.org/papers/w32577">The Chronic Disease Index: Analyzing Health Inequalities Over the Lifecycle</a></h3>
+      <h3><a href="/files/lifecycle-formation-health-inequality.pdf">The Lifecycle Formation of Health Inequality</a></h3>
       <p class="paper-entry__authors">with <a href="https://kavehdanesh.com/">Kaveh Danesh</a>, <a href="https://haas.berkeley.edu/faculty/jonathan-kolstad/">Jonathan Kolstad</a>, and <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
-      <p class="paper-entry__venue">NBER Working Paper 32577 · CEPR Discussion Paper 19160</p>
+      <p class="paper-entry__venue">Latest version: September 2026 · NBER Working Paper 32577 · CEPR Discussion Paper 19160</p>
       <details>
         <summary>Abstract</summary>
-        <p>We develop an index of chronic-disease burden based on projected contributions to old-age mortality. Dutch administrative data show that health inequality arises early: by age 35, the bottom half of the income distribution has the disease burden seen around age 50 in the top half. Roughly 60% of the divergence reflects faster onset of chronic illness among lower-income people rather than sorting after illness. Socioeconomic and geographic factors explain most of the observed variation.</p>
+        <p>Life expectancy differs substantially across income groups, but mortality reveals little about when and how underlying health inequalities emerge. Using population-wide Dutch panel data linking income to detailed histories of diagnosed chronic conditions, we construct a mortality-weighted index that summarizes individual-level chronic-condition profiles on a common scale. We then use this index to study when and how health inequality forms over the lifecycle. About half of the old-age difference in chronic disease burden across the income distribution is already present by age 40, while the mortality differences that drive differences in life expectancy emerge decades later. Differential accumulation of chronic conditions accounts for 58 percent of the gap, with diabetes and cardiovascular disease being the main sources of divergence through midlife. The remaining 42 percent reflects income sorting by health. Mental health conditions play the largest role in sorting early in the lifecycle, and poor health is disproportionately associated with movements into the bottom of the income distribution.</p>
       </details>
-      <div class="paper-links"><a href="https://www.nber.org/papers/w32577">NBER paper</a><a href="https://cepr.org/publications/dp19160">CEPR</a><a href="https://cepr.org/voxeu/columns/closing-health-gap-how-chronic-illness-drives-health-inequality-early">VoxEU summary</a></div>
+      <p class="paper-entry__note">An earlier version circulated as <em>The Chronic Disease Index: Analyzing Health Inequalities Over the Lifecycle</em>.</p>
+      <div class="paper-links"><a href="/files/lifecycle-formation-health-inequality.pdf">Latest draft</a><a href="https://www.nber.org/papers/w32577">NBER</a><a href="https://cepr.org/publications/dp19160">CEPR</a><a href="https://cepr.org/voxeu/columns/closing-health-gap-how-chronic-illness-drives-health-inequality-early">VoxEU summary</a></div>
     </div>
   </article>
 

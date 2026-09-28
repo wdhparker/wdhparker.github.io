@@ -38,8 +38,8 @@ redirect_from:
 
   <section class="cv-section">
     <h2>Research</h2>
-    <div class="cv-publication"><span>Published</span><p><a href="https://doi.org/10.1257/pandp.20261074">“Explaining the Atomistic versus Ecological Fallacies in SES–Health Gradients,”</a> with Johannes Spinnewijn. <em>AEA Papers and Proceedings</em> 116 (2026), 150–155.</p></div>
-    <div class="cv-publication"><span>Working paper</span><p><a href="https://www.nber.org/papers/w32577">“The Chronic Disease Index: Analyzing Health Inequalities Over the Lifecycle,”</a> with Kaveh Danesh, Jonathan Kolstad, and Johannes Spinnewijn. NBER Working Paper 32577; CEPR Discussion Paper 19160.</p></div>
+    <div class="cv-publication"><span>Proceedings</span><p><a href="https://doi.org/10.1257/pandp.20261074">“Explaining the Atomistic versus Ecological Fallacies in SES–Health Gradients,”</a> with Johannes Spinnewijn. <em>AEA Papers and Proceedings</em> 116 (2026), 150–155.</p></div>
+    <div class="cv-publication"><span>Working paper</span><p><a href="/files/lifecycle-formation-health-inequality.pdf">“The Lifecycle Formation of Health Inequality,”</a> with Kaveh Danesh, Jonathan Kolstad, and Johannes Spinnewijn. September 2026. NBER Working Paper 32577; CEPR Discussion Paper 19160. Earlier version circulated as “The Chronic Disease Index: Analyzing Health Inequalities Over the Lifecycle.”</p></div>
     <div class="cv-publication"><span>Working paper</span><p>“Zooming in on Health: Using High-Resolution Spatial Data to Understand the Geography of Health Inequality.”</p></div>
     <div class="cv-publication"><span>In progress</span><p>“Sources of Socioeconomic Inequality in Cancer Mortality,” with Kaveh Danesh, Mieke Aarts, Jonathan Kolstad, and Johannes Spinnewijn.</p></div>
     <div class="cv-publication"><span>In progress</span><p>“The Social Determinants of Mental Health,” with Canishk Naik and Johannes Spinnewijn.</p></div>
