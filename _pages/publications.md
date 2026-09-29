@@ -9,7 +9,6 @@ redirect_from:
 
 <header class="page-intro">
   <p class="eyebrow">Research</p>
-  <h1>Health inequality across people, places, and the life course.</h1>
   <p>My research combines applied microeconometrics with linked administrative data. Coauthors are linked throughout, alongside papers, accessible drafts, and shorter summaries.</p>
 </header>
 
@@ -36,8 +35,8 @@ redirect_from:
 
 <section class="research-section">
   <div class="research-section__heading">
-    <p class="section-kicker">Working papers</p>
-    <h2>Current research</h2>
+    <p class="section-kicker">Working papers and work in progress</p>
+    <h2>Research projects</h2>
   </div>
 
   <article class="paper-entry">
@@ -66,19 +65,11 @@ redirect_from:
       </details>
     </div>
   </article>
-</section>
-
-<section class="research-section">
-  <div class="research-section__heading">
-    <p class="section-kicker">Work in progress</p>
-    <h2>Collaborative projects</h2>
-  </div>
-
   <article class="paper-entry">
     <div class="paper-entry__aside"><span class="status">In progress</span></div>
     <div class="paper-entry__body">
       <h3>Sources of Socioeconomic Inequality in Cancer Mortality</h3>
-      <p class="paper-entry__authors">with <a href="https://kavehdanesh.com/">Kaveh Danesh</a>, <a href="https://www.iknl.nl/medewerkers">Mieke Aarts</a>, <a href="https://haas.berkeley.edu/faculty/jonathan-kolstad/">Jonathan Kolstad</a>, and <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
+      <p class="paper-entry__authors">with <a href="https://kavehdanesh.com/">Kaveh Danesh</a>, <a href="https://iknl.nl/medewerkers/mieke-aarts">Mieke Aarts</a>, <a href="https://haas.berkeley.edu/faculty/jonathan-kolstad/">Jonathan Kolstad</a>, and <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
       <details>
         <summary>Project summary</summary>
         <p>A multidisciplinary study linking Dutch cancer-registry data with treatment, income, and mortality records to examine socioeconomic differences in cancer incidence, stage at diagnosis, treatment, and survival.</p>

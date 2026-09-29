@@ -33,7 +33,7 @@ redirect_from:
   <div class="profile-intro__body">
     <p>I am a Postdoctoral Research Fellow at <a href="https://sticerd.lse.ac.uk/">STICERD</a> at the London School of Economics, working in a joint research programme with UC Berkeley. I completed my PhD in Economics at LSE in 2026.</p>
     <p>My work uses linked administrative health and socioeconomic data to study health inequality, chronic disease, cancer outcomes, mental health, and the geography of health. I am particularly interested in translating careful measurement and applied microeconometrics into evidence that is useful for policy.</p>
-    <p>Before the PhD, I worked at <a href="https://www.deloitte.com/au/en/services/economics/about.html">Deloitte Access Economics</a> in Australia, delivering economic analysis for government, business, and not-for-profit clients.</p>
+    <p>Before the PhD, I worked at <a href="https://www.deloitte.com/au/en/services/economics.html">Deloitte Access Economics</a> in Australia, delivering economic analysis for government, business, and not-for-profit clients.</p>
   </div>
 </section>
 
@@ -70,7 +70,7 @@ redirect_from:
     <article class="research-card">
       <div class="research-card__meta"><span class="status">In progress</span></div>
       <h3>Sources of Socioeconomic Inequality in Cancer Mortality</h3>
-      <p class="research-card__authors">with <a href="https://kavehdanesh.com/">Kaveh Danesh</a>, <a href="https://www.iknl.nl/medewerkers">Mieke Aarts</a>, <a href="https://haas.berkeley.edu/faculty/jonathan-kolstad/">Jonathan Kolstad</a>, and <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
+      <p class="research-card__authors">with <a href="https://kavehdanesh.com/">Kaveh Danesh</a>, <a href="https://iknl.nl/medewerkers/mieke-aarts">Mieke Aarts</a>, <a href="https://haas.berkeley.edu/faculty/jonathan-kolstad/">Jonathan Kolstad</a>, and <a href="https://personal.lse.ac.uk/spinnewi/">Johannes Spinnewijn</a></p>
       <p>A multidisciplinary study linking Dutch cancer-registry data with treatment, income, and mortality records to examine socioeconomic differences in cancer incidence, stage at diagnosis, treatment, and survival.</p>
     </article>
 
